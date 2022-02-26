@@ -11,7 +11,10 @@
 https://github.com/fk506cni/pptx_eng_voice_add/blob/main/notebookes/pptx_eng_voice_add_for_jss_fix.ipynb
 
 * Webアプリ  
-https://tranquil-temple-39125.herokuapp.com/
+https://tranquil-temple-39125.herokuapp.com/  
+username:'jss122'  
+pw:'pptx2eng'  
+(個人情報、機密情報を含んだスライドの加工はご遠慮ください)  
 
 * デモパワーポイント  
 https://github.com/fk506cni/pptx_eng_voice_add/blob/main/pptx/test01.pptx
