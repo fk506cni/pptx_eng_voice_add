@@ -7,14 +7,28 @@
 
 
 ## items
-* 処理ノートブック
+* 処理ノートブック  
+https://github.com/fk506cni/pptx_eng_voice_add/blob/main/notebookes/pptx_eng_voice_add_for_jss_fix.ipynb
 
-* Webアプリ
+* Webアプリ  
+https://tranquil-temple-39125.herokuapp.com/
 
-* デモパワーポイント
+* デモパワーポイント  
+https://github.com/fk506cni/pptx_eng_voice_add/blob/main/pptx/test01.pptx
 
-* VBAアプリ
+* VBAアプリ  
+https://github.com/fk506cni/pptx_eng_voice_add/blob/main/vbaapps/ppt_mcr01.ppam
 
-## how to use.
+## schema.
 
 ![px](https://user-images.githubusercontent.com/36837418/155833220-f204c0ab-807d-4779-a5f4-bae78be162d1.png)
+
+
+## How to use
+
+* タグで英語文章を囲んだパワーポイントファイルを用意する。上記のでもファイルを参照ください。
+* ノートブック記載の処理により英語音声をねじ込む
+* あるいは上記のWebアプリで英語音声をねじ込む
+* VBAアプリでアニメーションを設定する
+
+## citation
