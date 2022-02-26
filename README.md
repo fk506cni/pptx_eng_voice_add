@@ -12,9 +12,9 @@ https://github.com/fk506cni/pptx_eng_voice_add/blob/main/notebookes/pptx_eng_voi
 
 * Webアプリ  
 https://tranquil-temple-39125.herokuapp.com/  
-username:'jss122'  
-pw:'pptx2eng'  
-(個人情報、機密情報を含んだスライドの加工はご遠慮ください)  
+username:jss122  
+pw:pptx2eng  
+(個人情報、機密情報を含んだスライドの利用はご遠慮ください)  
 
 * デモパワーポイント  
 https://github.com/fk506cni/pptx_eng_voice_add/blob/main/pptx/test01.pptx
@@ -33,5 +33,8 @@ https://github.com/fk506cni/pptx_eng_voice_add/blob/main/vbaapps/ppt_mcr01.ppam
 * ノートブック記載の処理により英語音声をねじ込む
 * あるいは上記のWebアプリで英語音声をねじ込む
 * VBAアプリでアニメーションを設定する
+
+## memo
+すでに音声データなどが挿入されたpptxファイルはpython-pptxでの音声挿入操作が失敗することがあるようです。
 
 ## citation
