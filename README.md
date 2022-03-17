@@ -22,7 +22,6 @@ https://github.com/fk506cni/pptx_eng_voice_add/blob/main/pptx/test01.pptx
 * VBAアプリ  
 https://github.com/fk506cni/pptx_eng_voice_add/blob/main/vbaapps/ppt_mcr01.ppam  
 タイトルページはクリック後に再生、その後は切り替え後に再生  
-
 https://github.com/fk506cni/pptx_eng_voice_add/blob/main/vbaapps/ppt_mcr02.ppam  
 全ページ切り替え直後に音声再生。録画用。  
 
